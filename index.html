@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Game Booth</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=JetBrains+Mono:wght@400;600&family=Space+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <p class="eyebrow">Welcome to the</p>
+    <h1 class="hero-title">Game Booth</h1>
+    <p class="hero-subtitle">Pick a ticket. Every one opens a new tab and a new game.</p>
+    <div class="hero-rule" aria-hidden="true"></div>
+  </header>
+
+  <main>
+    <section class="game-grid" id="game-grid" aria-label="Game links">
+      <!-- Ticket cards are generated automatically by script.js from the games list -->
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Want to add a game? Open <code>script.js</code> and drop a new entry into the <code>games</code> list — a title, a url, and a one-line description.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
