@@ -26,7 +26,7 @@ const games = [
   },
   {
     title: "2D war game",
-    url: "/Users/student/tank%20battle/index.html;",
+    url: "tank%20battle/index.html;",
     description: "A 2D war game where you may fight for your country."
   },
   {
