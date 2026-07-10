@@ -16,7 +16,7 @@
 const games = [
   {
     title: "2048",
-    url: "https://play2048.co/",
+    url: "https://woods-of-chaos-jorgin.vercel.app/",
     description: "Slide tiles, merge numbers, chase 2048."
   },
   {
