@@ -15,14 +15,14 @@
 
 const games = [
   {
-    title: "2048",
+    title: "WOOODS of CHAOS",
     url: "https://woods-of-chaos-jorgin.vercel.app/",
-    description: "Slide tiles, merge numbers, chase 2048."
+    description: "PICK A CHARACTER AND TRY TO CONQUER THE CHAOS OF THE WOODS."
   },
   {
-    title: "Chess",
-    url: "https://www.chess.com/play/computer",
-    description: "Play a match against the computer, any level."
+    title: "Sky Blocks",
+    url: "https://sky-blocks-ajki.vercel.app/",
+    description: "Challange your friends in a PVP or fight the insaine boss."
   },
   {
     title: "Wordle",
