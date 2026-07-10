@@ -21,7 +21,7 @@ const games = [
   },
   {
     title: "Sky Blocks",
-    url: "https://sky-blocks-ajki.vercel.app/",
+    url: "https://sky-blocks-ajki.vercel.app",
     description: "Challange your friends in a PVP or fight the insaine boss."
   },
   {
