@@ -25,9 +25,9 @@ const games = [
     description: "Challange your friends in a PVP or fight the insaine boss."
   },
   {
-    title: "Wordle",
-    url: "https://www.nytimes.com/games/wordle/index.html",
-    description: "Guess the five-letter word in six tries."
+    title: "2D war game",
+    url: "/Users/student/tank%20battle/index.html",
+    description: "A 2D war game where you may fight for your country."
   },
   {
     title: "Agar.io",
